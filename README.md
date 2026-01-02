@@ -49,7 +49,9 @@ The goal is to analyze the spread of COVID-19 across different countries and dat
 ## 🚀 How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Capstone_Project_Covid19.git
+   git clone (https://github.com/Maitreyautpal/Capstone_Project_Covid19.git)
+2. Navigate to the project folder
+   pip install numpy pandas matplotlib seaborn
    
 ----
 
