@@ -28,7 +28,7 @@ The goal is to analyze the spread of COVID-19 across different countries and dat
 ---
 
 ## 🌍 World Map Visualization
-![COVID-19 World Map](world_map_covid19.png)
+![COVID-19 World Map]file:///C:/Users/Maitreya%20Utpal/OneDrive/Desktop/world_map.html
 
 ---
 
@@ -37,7 +37,8 @@ The goal is to analyze the spread of COVID-19 across different countries and dat
 - Features include:
   - Date
   - Country/Region
-  -'Lat', 'Long'
+  -'Lat'
+  -'Long'
   - Confirmed cases
   - Active
   - WHO Region
