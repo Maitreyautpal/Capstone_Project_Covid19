@@ -27,11 +27,6 @@ The goal is to analyze the spread of COVID-19 across different countries and dat
 
 ---
 
-## 🌍 World Map Visualization
-![COVID-19 World Map]file:///C:/Users/Maitreya%20Utpal/OneDrive/Desktop/world_map.html
-
----
-
 ## 📁 Dataset
 - Source: COVID-19 dataset
 - Features include:
